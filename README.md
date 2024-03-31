@@ -1,4 +1,4 @@
-# codeEditor
+# Code Editor
 
 A new Flutter project.
 
