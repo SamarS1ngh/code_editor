@@ -18,12 +18,13 @@ A new Flutter project.
 <img width="200" alt="Auth Page" src="https://github.com/SamarS1ngh/code_editor/assets/112770584/14fb5bb8-5cc9-49f6-9449-812e5cf99c63">
 
 <img width="200" alt="Auth Page" src="https://github.com/SamarS1ngh/code_editor/assets/112770584/04404a3d-8f31-48b7-8677-7a740a2b5ee0">
+<img width="200" alt="Auth Page" src="https://github.com/SamarS1ngh/code_editor/assets/112770584/26a5b587-73af-4dd9-b852-93187157d43a">
+<img width="200" alt="Auth Page" src="https://github.com/SamarS1ngh/code_editor/assets/112770584/bad0fb46-96c5-4633-8bb0-6d59159afdfd">
 
 
 
 
-![Screenshot_1711889307](https://github.com/SamarS1ngh/code_editor/assets/112770584/26a5b587-73af-4dd9-b852-93187157d43a)
-![Screenshot_1711889310](https://github.com/SamarS1ngh/code_editor/assets/112770584/bad0fb46-96c5-4633-8bb0-6d59159afdfd)
+
 
 
 
