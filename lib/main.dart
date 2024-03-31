@@ -1,5 +1,5 @@
-import 'package:fluttemp/Utils/Routes/app_router_config.dart';
-import 'package:fluttemp/Utils/provider/app_providers.dart';
+import 'package:codeEditor/Utils/Routes/app_router_config.dart';
+import 'package:codeEditor/Utils/provider/app_providers.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
@@ -7,6 +7,7 @@ import 'package:provider/provider.dart';
 import 'ViewModel/someClass_VM/someclass.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setPreferredOrientations([
     DeviceOrientation.portraitUp,
     DeviceOrientation.portraitDown,

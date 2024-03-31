@@ -6,10 +6,10 @@ import 'app_colors.dart';
 class AppTypography {
   static TextStyle primaryStyle = const TextStyle(fontSize: 25);
   static TextStyle titleText = GoogleFonts.kanit(
-      fontWeight: FontWeight.w600, color: Colors.white, fontSize: 40);
+      fontWeight: FontWeight.w500, color: AppColors.primaryColor, fontSize: 24);
 
   static TextStyle bodyText = GoogleFonts.poppins(
-      fontWeight: FontWeight.w500, color: AppColors.primaryColor, fontSize: 30);
+      fontWeight: FontWeight.w500, color: AppColors.primaryColor, fontSize: 16);
 
   static TextStyle subTitles = GoogleFonts.montserrat(
       fontWeight: FontWeight.w400,

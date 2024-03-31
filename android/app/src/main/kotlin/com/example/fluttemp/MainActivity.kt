@@ -1,4 +1,4 @@
-package com.example.fluttemp
+package com.example.codeEditor
 
 import io.flutter.embedding.android.FlutterActivity
 

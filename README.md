@@ -1,4 +1,4 @@
-# fluttemp
+# codeEditor
 
 A new Flutter project.
 

@@ -1,4 +1,4 @@
-import 'package:fluttemp/ViewModel/someClass_VM/someclass.dart';
+import 'package:codeEditor/ViewModel/someClass_VM/someclass.dart';
 import 'package:provider/provider.dart';
 import 'package:provider/single_child_widget.dart';
 
