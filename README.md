@@ -4,8 +4,9 @@ A new Flutter project.
 
 
 # ScreenShots
+<img width="200" alt="Auth Page" src="https://github.com/SamarS1ngh/code_editor/assets/112770584/9fd9e947-b1f3-46b3-baf1-d3cef913e2d9">
 
-![Screenshot_1711889267](https://github.com/SamarS1ngh/code_editor/assets/112770584/9fd9e947-b1f3-46b3-baf1-d3cef913e2d9){:width="50%"}
+![Screenshot_1711889267](https://github.com/SamarS1ngh/code_editor/assets/112770584/9fd9e947-b1f3-46b3-baf1-d3cef913e2d9)
 ![Screenshot_1711889271](https://github.com/SamarS1ngh/code_editor/assets/112770584/8b1add77-79a9-4153-aff4-67418ba3502e)
 ![Screenshot_1711889274](https://github.com/SamarS1ngh/code_editor/assets/112770584/b99be2bf-0c89-4cc0-8910-a5aff2ff4ea5)
 ![Screenshot_1711889276](https://github.com/SamarS1ngh/code_editor/assets/112770584/382b0fb9-4c3f-4f6e-a6b8-a0f6b010a8ed)
