@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+# Description
+A code editor test mock app 
+
 
 # ScreenShots
 <img width="200" alt="Auth Page" src="https://github.com/SamarS1ngh/code_editor/assets/112770584/9fd9e947-b1f3-46b3-baf1-d3cef913e2d9">
